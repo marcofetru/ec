@@ -21,7 +21,7 @@ const SliderOne = () => {
   return (
     <section className="main-slider">
       <Swiper {...mainSlideOptions}>
-        {SliderOneData.map(({ image, subTitle, title, button }, index) => (
+        {SliderOneData.map(({ image, subTitle, title, button, }, index) => (
           <SwiperSlide key={index}>
             <div
               className="image-layer"

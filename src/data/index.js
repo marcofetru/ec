@@ -1,5 +1,6 @@
-import logoLight from "@/images/logo.png";
-import logoDark from "@/images/logo2.png";
+import logoLight from "@/images/logo-educacion-continua-blanco.png";
+import logoDark from "@/images/logo-educacion-continua-blanco.png";
+
 
 export const LogoImage = {
   light: logoLight,
@@ -91,19 +92,22 @@ import sliderOne02 from "@/images/slider/1_2.jpg";
 export const SliderOneData = [
   {
     image: sliderOne01,
-    subTitle: "WELCOME TO MEIPALY AGENCY",
-    title: "SMART WEB \n DESIGN AGENCY.",
+    subTitle: "CENTRO.",
+    title: "EDUCACIÓN \n CONTINUA",
     button: {
-      label: "Descubre M1s",
+      label: "MÁS INFORMACIÓN", 
       url: "/about",
     },
+  
   },
+
+  
   {
     image: sliderOne02,
-    subTitle: "WELCOME TO MEIPALY AGENCY",
-    title: "SMART WEB \n DESIGN AGENCY.",
+    subTitle: "Diplomado onlive",
+    title: "Moda  \n y Retail",
     button: {
-      label: "Descubre M2s",
+      label: "MÁS INFORMACIÓN",
       url: "/about",
     },
   },
@@ -149,7 +153,7 @@ import sliderThree02 from "@/images/slider/3_2.jpg";
 export const SliderThreeData = [
   {
     image: sliderThree01,
-    subTitle: "WELCOME TO MEIPALY AGENCY",
+    subTitle: "EDUCACIÓN CONTINUA",
     title: "SMART WEB\n DESIGN AGENCY.",
     button: {
       label: "Descubre Más",
@@ -668,11 +672,10 @@ import team05 from "@/images/team/5.jpg";
 
 export const TeamOneData = {
   sectionContent: {
-    title: "expert people",
-    subTitle: "meet the team",
+    title: "MANTENTE AL DÍA",
+    subTitle: "CONTINÚA TU FORMACIÓN",
     text:
-      "We are committed to providing our customers with exceptional service \n while offering our employees the best training.",
-  },
+      "200 Cursos al año en todas las áreas de la industria creativa", },
   posts: [
     {
       image: team01,
@@ -1062,11 +1065,11 @@ export const FeatureTwoData = {
 
 export const CallToActionTwoData = [
   {
-    label: "View our Recent Work",
+    label: "ESTUDIANTES",
     url: "/portfolio",
   },
   {
-    label: "Reqeust a free quote",
+    label: "EMPRESAS",
     url: "/contact",
   },
 ];
