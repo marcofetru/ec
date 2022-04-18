@@ -94,7 +94,7 @@ export const SliderOneData = [
     subTitle: "WELCOME TO MEIPALY AGENCY",
     title: "SMART WEB \n DESIGN AGENCY.",
     button: {
-      label: "DISCOVER MORE",
+      label: "Descubre M1s",
       url: "/about",
     },
   },
@@ -103,7 +103,7 @@ export const SliderOneData = [
     subTitle: "WELCOME TO MEIPALY AGENCY",
     title: "SMART WEB \n DESIGN AGENCY.",
     button: {
-      label: "DISCOVER MORE",
+      label: "Descubre M2s",
       url: "/about",
     },
   },
@@ -119,7 +119,7 @@ export const SliderTwoData = [
     subTitle: "WELCOME TO MEIPALY AGENCY",
     title: "DIGITAL\nMARKETING\nAGENCY.",
     button: {
-      label: "DISCOVER MORE",
+      label: "Descubre Mis",
       url: "/about",
     },
   },
@@ -128,7 +128,7 @@ export const SliderTwoData = [
     subTitle: "WELCOME TO MEIPALY AGENCY",
     title: "DIGITAL\nMARKETING\nAGENCY.",
     button: {
-      label: "DISCOVER MORE",
+      label: "Descubre Mis",
       url: "/about",
     },
   },
@@ -137,7 +137,7 @@ export const SliderTwoData = [
     subTitle: "WELCOME TO MEIPALY AGENCY",
     title: "DIGITAL\nMARKETING\nAGENCY.",
     button: {
-      label: "DISCOVER MORE",
+      label: "Descubre Más",
       url: "/about",
     },
   },
@@ -152,7 +152,7 @@ export const SliderThreeData = [
     subTitle: "WELCOME TO MEIPALY AGENCY",
     title: "SMART WEB\n DESIGN AGENCY.",
     button: {
-      label: "DISCOVER MORE",
+      label: "Descubre Más",
       url: "/about",
     },
   },
@@ -161,7 +161,7 @@ export const SliderThreeData = [
     subTitle: "WELCOME TO MEIPALY AGENCY",
     title: "SMART WEB\n DESIGN AGENCY.",
     button: {
-      label: "DISCOVER MORE",
+      label: "Descubre Más",
       url: "/about",
     },
   },
